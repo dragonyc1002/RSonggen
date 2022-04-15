@@ -1,6 +1,6 @@
 import React from 'react';
-import avatar_FengRuanBus from './asset/FengRuanBus.png';
-import avatar_HeXinBus from './asset/Hexinbus.png';
+import avatar_FengRuanBus from './asset/FengRuanBus.jpg';
+import avatar_HeXinBus from './asset/Hexinbus.jpg';
 import {
   DiscordMessages,
   DiscordMessage,
